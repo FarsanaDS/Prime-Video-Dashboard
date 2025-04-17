@@ -1,6 +1,6 @@
 # Prime Video Dashboard - Power BI Project
 
-This is an interactive data visualization project created using *Power BI, based on a dataset of titles available on **Amazon Prime Video*.
+This is an interactive data visualization project created using *Power BI, based on a dataset of titles available on Amazon Prime Video*.
 
 The project was created as a part of my learning journey by following a YouTube tutorial, with the goal of improving my skills in Power BI and data storytelling.
 
